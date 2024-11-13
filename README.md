@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : LIPPI
+- prénom : Ugo
+- URL Netlify : https://guileless-sopapillas-878122.netlify.app
 
 # Travail
 
