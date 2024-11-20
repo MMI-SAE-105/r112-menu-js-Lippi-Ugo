@@ -132,3 +132,49 @@ Faire que l'élément `body` ait la classe CSS `noscroll` quand le menu est ouve
 https://developer.mozilla.org/fr/docs/Web/API/Element/classList#toggle
 
 **Faire commit** : classe `noscroll`.
+
+
+**Faire une arborescence de fichiers**
+
+|   index.html
+
+|
+
++---cats
+
+    | chat-1.html
+    | chat-2.html
+    | index.html
+|
+
++---dogs
+
+    | chien-1.html
+    | chien-2.html
+    | index.html
+|
+
++---public
+
+    | +---icones
+    |   | archive.svg
+    |   | bag-plus.svg
+    |   | book.svg
+    |   |
+
+    |   \---img
+    |       +---cats
+    |       |       Cat_yawning_in_park.jpg
+    |       |       Cautious_Tabby_Red_Cat.jpg
+    |       |
+    |       \---dogs
+    |               German_shepherd_(5781199120).jpg
+    |               German_shepherd_wanting_to_play.JPG
+|
+\---src
+
+    +---css
+    |       styles.css
+    |
+    +---fonts
+    \---js
